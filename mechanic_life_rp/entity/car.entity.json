@@ -1,0 +1,23 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "mechaniclife:car",
+      "materials": {
+        "default": "entity"
+      },
+      "textures": {
+        "default": "textures/entity/car"
+      },
+      "geometry": {
+        "default": "geometry.car"
+      },
+      "render_controllers": ["controller.render.car"],
+      "spawn_egg": {
+        "base_color": "#2b2b2b",
+        "overlay_color": "#c0392b"
+      }
+    }
+  }
+}
+

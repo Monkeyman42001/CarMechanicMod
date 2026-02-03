@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mechanic Life BP",
+    "description": "Basic car entity behavior pack",
+    "uuid": "37fa520a-ab2a-4d30-b5bc-9b9c67822a7d",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 132]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "bfc22906-793f-4dd9-b1b6-4766a5c1db4b",
+      "version": [1, 0, 0]
+    }
+  ]
+}
+

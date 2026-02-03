@@ -1,0 +1,15 @@
+{
+  "format_version": "1.20.80",
+  "render_controllers": {
+    "controller.render.car": {
+      "arrays": {
+        "textures": {
+          "array.default": ["Texture.default"]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [{"*": "Material.default"}],
+      "textures": ["array.default"]
+    }
+  }
+}
